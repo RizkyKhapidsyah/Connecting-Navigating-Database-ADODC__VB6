@@ -1,0 +1,5 @@
+Line 23: Class dataCtl.dbCtl of control dbCtl1 was not a loaded control class.
+Line 29: The property name _ExtentX in dbCtl1 is invalid.
+Line 30: The property name _ExtentY in dbCtl1 is invalid.
+Line 31: The property name RecordSource in dbCtl1 is invalid.
+Line 32: The property name ConnectionString in dbCtl1 is invalid.
